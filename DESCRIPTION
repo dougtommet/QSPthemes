@@ -1,0 +1,11 @@
+Package: QSPthemes
+Type: Package
+Title: Quantitative Sciences Program ggplot2 themes
+Version: 0.1.0
+Author: Doug Tommet
+Maintainer: Doug Tommet <doug_tommet@brown.edu>
+Description: This package has custom gglot2 themes for use in the 
+    Quantitative Sciences Program.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
