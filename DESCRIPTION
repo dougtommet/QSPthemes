@@ -11,3 +11,7 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/dougtommet/QSPthemes
 BugReports: https://github.com/dougtommet/QSPthemes/issues
+Imports: 
+    dplyr,
+    ggplot2
+RoxygenNote: 7.0.2
